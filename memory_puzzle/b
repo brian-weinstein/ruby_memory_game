@@ -1,0 +1,22 @@
+=> [32m#<Game:0x000055588f109108[0m
+ @board[32m=[0m
+  [32m#<Board:0x000055588f109068[0m
+   @grid[32m=[0m
+    [[[32m#<Card:0x000055588f103460[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mF[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f103dc0[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mA[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f101d18[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mJ[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f102380[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mJ[1;31m"[0m[31m[0m[32m>[0m],
+     [[32m#<Card:0x000055588f108550[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mX[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f103af0[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mX[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f108618[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mK[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f103c30[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mK[1;31m"[0m[31m[0m[32m>[0m],
+     [[32m#<Card:0x000055588f103a00[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mS[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f103910[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mS[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f1084b0[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mR[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f108348[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mR[1;31m"[0m[31m[0m[32m>[0m],
+     [[32m#<Card:0x000055588f108410[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mV[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f108140[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mF[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f108078[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mA[1;31m"[0m[31m[0m[32m>[0m,
+      [32m#<Card:0x000055588f1082a8[0m @revealed[32m=[0m[1;36mfalse[0m, @value[32m=[0m[31m[1;31m"[0m[31mV[1;31m"[0m[31m[0m[32m>[0m]],
+   @size[32m=[0m[1;34m4[0m[32m>[0m,
+ @previousGuess[32m=[0m[1;36mnil[0m[32m>[0m
